@@ -1,6 +1,13 @@
 export default function Navigation() {
     return (
-        <>Hello!</>
+        <div className='nav'>
+            <div className='div-left'>
+                L
+            </div>
+            <div className='div-right'>
+            R
+            </div>
+        </div>
 
     );
 }

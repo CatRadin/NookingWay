@@ -1,6 +1,12 @@
+import Nav from './Navigation'
+
+
 export default function Home() {
     return (
-        <>Hello!</>
+        <div className='home'>
+            <Nav />
+            
+        </div>
 
     );
 }
