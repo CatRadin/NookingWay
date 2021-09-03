@@ -3,6 +3,7 @@ import './styles/Home.css'
 import './styles/Navigation.css'
 import Home from './components/Home.js'
 import Artwork from './components/Artwork.js'
+import About from './components/About'
 import Characters from './components/Characters'
 import Clothing from './components/Clothing'
 import Contact from './components/Contact'
@@ -24,6 +25,7 @@ function App() {
         <Route exact path="/">
           <Home />
         </Route>
+        <Route path="/about" component={About} />
          <Route path="/artwork" component={Artwork} />
          <Route path="/characters" component={Characters} />
          <Route path="/clothing" component={Clothing} />

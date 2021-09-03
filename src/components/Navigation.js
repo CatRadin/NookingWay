@@ -7,10 +7,13 @@ export default function Navigation() {
         <div className='nav'>
             <div className='div-left'>
                 <h1>Nooking<span className='lightBrown'>Way</span></h1>
-                <img src={CoconutTree}></img>
+                <img className='coconutTree' src={CoconutTree}></img>
             </div>
             <div className='div-right'>
             <Link to="/">Home</Link>
+            <Link to="/about">About</Link>
+            <Link to="/contact">Contact</Link>
+            <Link to="/faq">FAQ</Link>
             </div>
         </div>
 

@@ -1,6 +1,9 @@
+import Navigation from "./Navigation";
+
 export default function Contact() {
     return (
-        <>Hello!</>
+        <><Navigation />
+        Hello from contact</>
 
     );
 }

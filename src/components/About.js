@@ -1,6 +1,12 @@
+
+
+import Navigation from "./Navigation";
+
 export default function About() {
     return (
-        <>Hello!</>
+
+        <><Navigation />
+        Hello from about!</>
 
     );
 }
