@@ -1,7 +1,7 @@
 .nav {
   font-family: 'FinkHeavy';
   src: url("../assets/FinkHeavy.ttf");
-  font-size: 14rem;
+  font-size: 1rem;
   height: 8%;
   width: 100vw;
   background-color: #CCE1CA;
@@ -11,5 +11,20 @@
   -webkit-box-pack: justify;
       -ms-flex-pack: justify;
           justify-content: space-between;
+  color: #4F3329;
+}
+
+h1 {
+  margin-left: 1rem;
+}
+
+.lightBrown {
+  color: #CC8447;
+}
+
+.div-left {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
 }
 /*# sourceMappingURL=Navigation.css.map */
