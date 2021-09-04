@@ -1,6 +1,9 @@
+import Navigation from "./Navigation";
+
 export default function FAQ() {
     return (
-        <>Hello!</>
+        <><Navigation/>
+         Hello!</>
 
     );
 }
