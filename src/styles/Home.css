@@ -3,4 +3,16 @@
   width: 100vw;
   background-image: url("../assets/Triangles.png");
 }
+
+.middle {
+  height: 72%;
+}
+
+.footer {
+  width: 100vw;
+  height: 20%;
+  background-color: #6CA776;
+  position: realative;
+  bottom: 0;
+}
 /*# sourceMappingURL=Home.css.map */

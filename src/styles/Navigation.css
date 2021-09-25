@@ -53,4 +53,8 @@ a {
   color: #4F3329;
   font-weight: 550;
 }
+
+a:hover {
+  color: #CC8447;
+}
 /*# sourceMappingURL=Navigation.css.map */
