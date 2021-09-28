@@ -38,6 +38,10 @@ body {
           justify-content: center;
 }
 
+.clothing {
+  margin-top: 1.6rem;
+}
+
 .footer {
   width: 100vw;
   height: 5rem;
