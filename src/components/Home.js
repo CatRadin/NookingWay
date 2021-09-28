@@ -7,8 +7,9 @@ export default function Home() {
             <Nav />
         <div className="middle">
             <h1>Animal Crossing</h1>
+            <h2>New Horizons</h2>
             </div> 
-        <div className="footer"></div>   
+        <div className="footer">dfdsfds</div>   
         </div>
 
     );
