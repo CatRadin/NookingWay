@@ -40,7 +40,7 @@ export default function Home() {
                 <img src={Critters} alt="Critters"  />
             </Link>   
             </div>
-            {/* ----------------Image Links # 2------------------- */}
+            {/* ----------------Image Links # 2-------------------- */}
             <div className="links">
              <Link to="/diy">
                 <img src={DIY} alt="DIY"  />
